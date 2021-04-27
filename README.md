@@ -1,2 +1,2 @@
 # my-website
-this site is under delelop
+this site is under develop
